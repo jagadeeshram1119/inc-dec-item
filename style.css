@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#cart {
+  height: 500px;
+  width: 500px;
+  border: 1px solid black;
+  box-shadow: 3px 3px 3px black;
+  background: bisque;
+}
+button {
+  width: 100px;
+  height: 50px;
+  border-radius: 10px;
+  margin: 10px;
+}
+#add_btn {
+  background: green;
+}
+#remove_btn {
+  background: red;
+}
+#inc_btn {
+  background: blue;
+}
+#dec_btn {
+  background: yellow;
+}
+#checkout_btn {
+  background: rgb(221, 45, 233);
+}
